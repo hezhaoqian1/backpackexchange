@@ -6,6 +6,5 @@ cryptography~=42.0.2
 
 python版本限价刷交易源码 backpack交易所
 
-https://twitter.com/howbuybtc
 
-[https://backpack.exchange/](https://backpack.exchange/refer/9059f20b-f440-418e-9602-94343d253f4e)https://backpack.exchange/refer/9059f20b-f440-418e-9602-94343d253f4e
+[[https://backpack.exchange/](https://backpack.exchange/refer/9059f20b-f440-418e-9602-94343d253f4e)https://backpack.exchange/refer/9059f20b-f440-418e-9602-94343d253f4e](https://backpack.exchange/refer/d58efb5d-0470-43ee-9a70-9443900b0526)https://backpack.exchange/refer/d58efb5d-0470-43ee-9a70-9443900b0526
